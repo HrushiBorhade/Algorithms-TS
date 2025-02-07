@@ -1,1 +1,1 @@
-Algorithms using Typescript
+Algorithms Implemented using Typescript
